@@ -1,0 +1,338 @@
+
+
+----------------------------------------------------
+STRUCTURE by Pritchard, Stephens and Donnelly (2000)
+     and Falush, Stephens and Pritchard (2003)
+       Code by Pritchard, Falush and Hubisz
+             Version 2.3.4 (Jul 2012)
+----------------------------------------------------
+
+
+
+Input File:    All.txt
+
+Run parameters:
+   210 individuals
+   8 loci
+   2 populations assumed
+   10000 Burn-in period
+   50000 Reps
+
+
+--------------------------------------------
+Proportion of membership of each pre-defined
+ population in each of the 2 clusters
+
+Given    Inferred Clusters       Number of
+ Pop       1      2             Individuals
+
+  1:     0.400  0.600              30
+  2:     0.194  0.806              30
+  3:     0.080  0.920              23
+  4:     0.011  0.989               7
+  5:     0.017  0.983              11
+  6:     0.014  0.986              19
+  7:     0.986  0.014               5
+  8:     0.904  0.096              25
+  9:     0.666  0.334              30
+ 10:     0.833  0.167              20
+ 11:     0.705  0.295              10
+--------------------------------------------
+
+Allele-freq. divergence among pops (Net nucleotide distance),
+computed using point estimates of P.
+
+      1       2      
+ 1      -    0.1786  
+ 2   0.1786     -    
+
+Average distances (expected heterozygosity) between individuals in same cluster:
+cluster  1  : 0.3305 
+cluster  2  : 0.4063 
+
+--------------------------------------------
+Estimated Ln Prob of Data   = -2068.9
+Mean value of ln likelihood = -2047.1
+Variance of ln likelihood   = 43.5
+Mean value of alpha         = 0.0414
+
+Mean value of Fst_1         = 0.3539
+Mean value of Fst_2         = 0.2034
+
+
+Inferred ancestry of individuals:
+        Label (%Miss) Pop:  Inferred clusters
+  1 Hakuyari1    (0)    1 :  0.983 0.017 
+  2 Hakuyari1_2    (0)    1 :  0.988 0.012 
+  3 Hakuyari1_3    (0)    1 :  0.990 0.010 
+  4 Hakuyari1_4    (0)    1 :  0.991 0.009 
+  5 Hakuyari1_5    (0)    1 :  0.991 0.009 
+  6 Hakuyari1_6    (0)    1 :  0.991 0.009 
+  7 Hakuyari1_7    (0)    1 :  0.936 0.064 
+  8 Hakuyari1_8    (0)    1 :  0.988 0.012 
+  9 Hakuyari1_9    (0)    1 :  0.991 0.009 
+ 10 Hakuyari1_1    (0)    1 :  0.991 0.009 
+ 11 Hakuyari1_1    (0)    1 :  0.991 0.009 
+ 12 Hakuyari1_1    (0)    1 :  0.991 0.009 
+ 13 Hakuyari1_1    (0)    1 :  0.009 0.991 
+ 14 Hakuyari1_1    (0)    1 :  0.012 0.988 
+ 15 Hakuyari1_1    (0)    1 :  0.009 0.991 
+ 16 Hakuyari1_1    (0)    1 :  0.010 0.990 
+ 17 Hakuyari1_1    (0)    1 :  0.010 0.990 
+ 18 Hakuyari1_1    (0)    1 :  0.009 0.991 
+ 19 Hakuyari1_1    (0)    1 :  0.009 0.991 
+ 20 Hakuyari1_2    (0)    1 :  0.009 0.991 
+ 21 Hakuyari1_2    (0)    1 :  0.012 0.988 
+ 22 Hakuyari1_2    (0)    1 :  0.009 0.991 
+ 23 Hakuyari1_2    (0)    1 :  0.009 0.991 
+ 24 Hakuyari1_2    (0)    1 :  0.009 0.991 
+ 25 Hakuyari1_2    (0)    1 :  0.010 0.990 
+ 26 Hakuyari1_2    (0)    1 :  0.009 0.991 
+ 27 Hakuyari1_2    (0)    1 :  0.009 0.991 
+ 28 Hakuyari1_2    (0)    1 :  0.008 0.992 
+ 29 Hakuyari1_2    (0)    1 :  0.008 0.992 
+ 30 Hakuyari1_3    (0)    1 :  0.008 0.992 
+ 31 Kisokoma1    (0)    2 :  0.096 0.904 
+ 32 Kisokoma1_2    (0)    2 :  0.991 0.009 
+ 33 Kisokoma1_3    (0)    2 :  0.993 0.007 
+ 34 Kisokoma1_4    (0)    2 :  0.104 0.896 
+ 35 Kisokoma1_5    (0)    2 :  0.098 0.902 
+ 36 Kisokoma1_6    (0)    2 :  0.991 0.009 
+ 37 Kisokoma1_7    (0)    2 :  0.987 0.013 
+ 38 Kisokoma1_8    (0)    2 :  0.798 0.202 
+ 39 Kisokoma1_9    (0)    2 :  0.015 0.985 
+ 40 Kisokoma1_1    (0)    2 :  0.013 0.987 
+ 41 Kisokoma1_1    (0)    2 :  0.013 0.987 
+ 42 Kisokoma1_1    (0)    2 :  0.013 0.987 
+ 43 Kisokoma1_1    (0)    2 :  0.427 0.573 
+ 44 Kisokoma1_1    (0)    2 :  0.015 0.985 
+ 45 Kisokoma1_1    (0)    2 :  0.015 0.985 
+ 46 Kisokoma1_1    (0)    2 :  0.014 0.986 
+ 47 Kisokoma1_1    (0)    2 :  0.016 0.984 
+ 48 Kisokoma1_1    (0)    2 :  0.006 0.994 
+ 49 Kisokoma1_1    (0)    2 :  0.041 0.959 
+ 50 Kisokoma1_2    (0)    2 :  0.014 0.986 
+ 51 Kisokoma1_2    (0)    2 :  0.012 0.988 
+ 52 Kisokoma1_2    (0)    2 :  0.014 0.986 
+ 53 Kisokoma1_2    (0)    2 :  0.014 0.986 
+ 54 Kisokoma1_2    (0)    2 :  0.015 0.985 
+ 55 Kisokoma1_2    (0)    2 :  0.019 0.981 
+ 56 Kisokoma1_2    (0)    2 :  0.015 0.985 
+ 57 Kisokoma1_2    (0)    2 :  0.014 0.986 
+ 58 Kisokoma1_2    (0)    2 :  0.015 0.985 
+ 59 Kisokoma1_2    (0)    2 :  0.015 0.985 
+ 60 Kisokoma1_3    (0)    2 :  0.014 0.986 
+ 61    Matu0    (0)    3 :  0.009 0.991 
+ 62  Matu0_2    (0)    3 :  0.009 0.991 
+ 63  Matu0_3    (0)    3 :  0.009 0.991 
+ 64  Matu0_4    (0)    3 :  0.009 0.991 
+ 65  Matu0_5    (0)    3 :  0.009 0.991 
+ 66  Matu0_6    (0)    3 :  0.009 0.991 
+ 67  Matu0_7    (0)    3 :  0.009 0.991 
+ 68  Matu0_8    (0)    3 :  0.010 0.990 
+ 69  Matu0_9    (0)    3 :  0.009 0.991 
+ 70 Matu0_10    (0)    3 :  0.010 0.990 
+ 71 Matu0_11    (0)    3 :  0.009 0.991 
+ 72 Matu0_12    (0)    3 :  0.907 0.093 
+ 73 Matu0_13    (0)    3 :  0.584 0.416 
+ 74 Matu0_14    (0)    3 :  0.160 0.840 
+ 75 Matu0_15    (0)    3 :  0.012 0.988 
+ 76 Matu0_16    (0)    3 :  0.009 0.991 
+ 77 Matu0_17    (0)    3 :  0.011 0.989 
+ 78 Matu0_18    (0)    3 :  0.009 0.991 
+ 79 Matu0_19    (0)    3 :  0.009 0.991 
+ 80 Matu0_20    (0)    3 :  0.009 0.991 
+ 81 Matu0_21    (0)    3 :  0.009 0.991 
+ 82 Matu0_22    (0)    3 :  0.009 0.991 
+ 83 Matu0_23    (0)    3 :  0.010 0.990 
+ 84    Matu1    (0)    4 :  0.014 0.986 
+ 85  Matu1_2    (0)    4 :  0.013 0.987 
+ 86  Matu1_3    (0)    4 :  0.009 0.991 
+ 87  Matu1_4    (0)    4 :  0.008 0.992 
+ 88  Matu1_5    (0)    4 :  0.010 0.990 
+ 89  Matu1_6    (0)    4 :  0.014 0.986 
+ 90  Matu1_7    (0)    4 :  0.009 0.991 
+ 91    Name0    (0)    5 :  0.019 0.981 
+ 92  Name0_2    (0)    5 :  0.019 0.981 
+ 93  Name0_3    (0)    5 :  0.019 0.981 
+ 94  Name0_4    (0)    5 :  0.018 0.982 
+ 95  Name0_5    (0)    5 :  0.019 0.981 
+ 96  Name0_6    (0)    5 :  0.020 0.980 
+ 97  Name0_7    (0)    5 :  0.018 0.982 
+ 98  Name0_8    (0)    5 :  0.014 0.986 
+ 99  Name0_9    (0)    5 :  0.014 0.986 
+100 Name0_10    (0)    5 :  0.015 0.985 
+101 Name0_11    (0)    5 :  0.009 0.991 
+102    Name1    (0)    6 :  0.020 0.980 
+103  Name1_2    (0)    6 :  0.019 0.981 
+104  Name1_3    (0)    6 :  0.014 0.986 
+105  Name1_4    (0)    6 :  0.015 0.985 
+106  Name1_5    (0)    6 :  0.014 0.986 
+107  Name1_6    (0)    6 :  0.010 0.990 
+108  Name1_7    (0)    6 :  0.010 0.990 
+109  Name1_8    (0)    6 :  0.015 0.985 
+110  Name1_9    (0)    6 :  0.015 0.985 
+111 Name1_10    (0)    6 :  0.009 0.991 
+112 Name1_11    (0)    6 :  0.016 0.984 
+113 Name1_12    (0)    6 :  0.015 0.985 
+114 Name1_13    (0)    6 :  0.014 0.986 
+115 Name1_14    (0)    6 :  0.015 0.985 
+116 Name1_15    (0)    6 :  0.008 0.992 
+117 Name1_16    (0)    6 :  0.014 0.986 
+118 Name1_17    (0)    6 :  0.014 0.986 
+119 Name1_18    (0)    6 :  0.008 0.992 
+120 Name1_19    (0)    6 :  0.018 0.982 
+121 Oodaira0    (0)    7 :  0.975 0.025 
+122 Oodaira0_2    (0)    7 :  0.994 0.006 
+123 Oodaira0_3    (0)    7 :  0.992 0.008 
+124 Oodaira0_4    (0)    7 :  0.975 0.025 
+125 Oodaira0_5    (0)    7 :  0.991 0.009 
+126 Oodaira1    (0)    8 :  0.977 0.023 
+127 Oodaira1_2    (0)    8 :  0.812 0.188 
+128 Oodaira1_3    (0)    8 :  0.854 0.146 
+129 Oodaira1_4    (0)    8 :  0.979 0.021 
+130 Oodaira1_5    (0)    8 :  0.980 0.020 
+131 Oodaira1_6    (0)    8 :  0.986 0.014 
+132 Oodaira1_7    (0)    8 :  0.991 0.009 
+133 Oodaira1_8    (0)    8 :  0.995 0.005 
+134 Oodaira1_9    (0)    8 :  0.994 0.006 
+135 Oodaira1_10    (0)    8 :  0.994 0.006 
+136 Oodaira1_11    (0)    8 :  0.994 0.006 
+137 Oodaira1_12    (0)    8 :  0.098 0.902 
+138 Oodaira1_13    (0)    8 :  0.945 0.055 
+139 Oodaira1_14    (0)    8 :  0.994 0.006 
+140 Oodaira1_15    (0)    8 :  0.994 0.006 
+141 Oodaira1_16    (0)    8 :  0.102 0.898 
+142 Oodaira1_17    (0)    8 :  0.995 0.005 
+143 Oodaira1_18    (0)    8 :  0.974 0.026 
+144 Oodaira1_19    (0)    8 :  0.994 0.006 
+145 Oodaira1_20    (0)    8 :  0.994 0.006 
+146 Oodaira1_21    (0)    8 :  0.994 0.006 
+147 Oodaira1_22    (0)    8 :  0.994 0.006 
+148 Oodaira1_23    (0)    8 :  0.994 0.006 
+149 Oodaira1_24    (0)    8 :  0.993 0.007 
+150 Oodaira1_25    (0)    8 :  0.988 0.012 
+151  Senzyo1    (0)    9 :  0.015 0.985 
+152 Senzyo1_2    (0)    9 :  0.014 0.986 
+153 Senzyo1_3    (0)    9 :  0.013 0.987 
+154 Senzyo1_4    (0)    9 :  0.011 0.989 
+155 Senzyo1_5    (0)    9 :  0.027 0.973 
+156 Senzyo1_6    (0)    9 :  0.015 0.985 
+157 Senzyo1_7    (0)    9 :  0.013 0.987 
+158 Senzyo1_8    (0)    9 :  0.014 0.986 
+159 Senzyo1_9    (0)    9 :  0.014 0.986 
+160 Senzyo1_10    (0)    9 :  0.015 0.985 
+161 Senzyo1_11    (0)    9 :  0.991 0.009 
+162 Senzyo1_12    (0)    9 :  0.991 0.009 
+163 Senzyo1_13    (0)    9 :  0.990 0.010 
+164 Senzyo1_14    (0)    9 :  0.992 0.008 
+165 Senzyo1_15    (0)    9 :  0.991 0.009 
+166 Senzyo1_16    (0)    9 :  0.991 0.009 
+167 Senzyo1_17    (0)    9 :  0.991 0.009 
+168 Senzyo1_18    (0)    9 :  0.990 0.010 
+169 Senzyo1_19    (0)    9 :  0.992 0.008 
+170 Senzyo1_20    (0)    9 :  0.990 0.010 
+171 Senzyo1_21    (0)    9 :  0.990 0.010 
+172 Senzyo1_22    (0)    9 :  0.991 0.009 
+173 Senzyo1_23    (0)    9 :  0.990 0.010 
+174 Senzyo1_24    (0)    9 :  0.991 0.009 
+175 Senzyo1_25    (0)    9 :  0.991 0.009 
+176 Senzyo1_26    (0)    9 :  0.990 0.010 
+177 Senzyo1_27    (0)    9 :  0.991 0.009 
+178 Senzyo1_28    (0)    9 :  0.990 0.010 
+179 Senzyo1_29    (0)    9 :  0.991 0.009 
+180 Senzyo1_30    (0)    9 :  0.990 0.010 
+181   Todai0    (0)   10 :  0.009 0.991 
+182 Todai0_2    (0)   10 :  0.013 0.987 
+183 Todai0_3    (0)   10 :  0.010 0.990 
+184 Todai0_4    (0)   10 :  0.984 0.016 
+185 Todai0_5    (0)   10 :  0.978 0.022 
+186 Todai0_6    (0)   10 :  0.979 0.021 
+187 Todai0_7    (0)   10 :  0.978 0.022 
+188 Todai0_8    (0)   10 :  0.981 0.019 
+189 Todai0_9    (0)   10 :  0.984 0.016 
+190 Todai0_10    (0)   10 :  0.982 0.018 
+191 Todai0_11    (0)   10 :  0.980 0.020 
+192 Todai0_12    (0)   10 :  0.980 0.020 
+193 Todai0_13    (0)   10 :  0.941 0.059 
+194 Todai0_14    (0)   10 :  0.980 0.020 
+195 Todai0_15    (0)   10 :  0.988 0.012 
+196 Todai0_16    (0)   10 :  0.982 0.018 
+197 Todai0_17    (0)   10 :  0.980 0.020 
+198 Todai0_18    (0)   10 :  0.968 0.032 
+199 Todai0_19    (0)   10 :  0.979 0.021 
+200 Todai0_20    (0)   10 :  0.979 0.021 
+201   Todai1    (0)   11 :  0.008 0.992 
+202 Todai1_2    (0)   11 :  0.009 0.991 
+203 Todai1_3    (0)   11 :  0.974 0.026 
+204 Todai1_4    (0)   11 :  0.982 0.018 
+205 Todai1_5    (0)   11 :  0.978 0.022 
+206 Todai1_6    (0)   11 :  0.979 0.021 
+207 Todai1_7    (0)   11 :  0.979 0.021 
+208 Todai1_8    (0)   11 :  0.806 0.194 
+209 Todai1_9    (0)   11 :  0.992 0.008 
+210 Todai1_10    (0)   11 :  0.341 0.659 
+
+
+Estimated Allele Frequencies in each cluster
+First column gives estimated ancestral frequencies
+
+
+Locus 1 : m009 
+2 alleles
+0.0% missing data
+ 192   (0.673) 0.481 0.876 
+ 193   (0.327) 0.519 0.124 
+
+Locus 2 : m016 
+3 alleles
+0.0% missing data
+ 159   (0.669) 0.993 0.546 
+ 150   (0.138) 0.005 0.041 
+ 158   (0.193) 0.002 0.413 
+
+Locus 3 : m033 
+2 alleles
+0.0% missing data
+ 124   (0.501) 0.506 0.496 
+ 136   (0.499) 0.494 0.504 
+
+Locus 4 : m043 
+4 alleles
+0.0% missing data
+ 296   (0.273) 0.139 0.306 
+ 305   (0.377) 0.461 0.477 
+ 293   (0.287) 0.394 0.216 
+ 306   (0.063) 0.006 0.001 
+
+Locus 5 : m072b 
+3 alleles
+0.0% missing data
+ 319   (0.128) 0.714 0.002 
+ 318   (0.775) 0.253 0.995 
+ 315   (0.097) 0.032 0.003 
+
+Locus 6 : m076 
+5 alleles
+0.0% missing data
+ 268   (0.303) 0.426 0.237 
+ 272   (0.162) 0.501 0.018 
+ 266   (0.249) 0.067 0.278 
+ 270   (0.144) 0.002 0.279 
+ 274   (0.142) 0.004 0.187 
+
+Locus 7 : m080 
+2 alleles
+0.0% missing data
+ 204   (0.668) 0.986 0.427 
+ 216   (0.332) 0.014 0.573 
+
+Locus 8 : m084 
+2 alleles
+0.0% missing data
+ 219   (0.881) 0.998 0.936 
+ 223   (0.119) 0.002 0.064 
+
+Values of parameters used in structure:
+DATAFILE=All.txt,	OUTFILE=Output,	NUMINDS=210,	NUMLOCI=8,	MISSING=-9,	LABEL=1,	POPDATA=1,	POPFLAG=0,	PHENOTYPE=0,	EXTRACOLS=0,	MAXPOPS=2,	BURNIN=10000,	NUMREPS=50000,	USEPOPINFO=0,	INFERALPHA=1,	INFERLAMBDA=0,	POPSPECIFICLAMBDA=0,	POPALPHAS=0,	COMPUTEPROB=1,	NOADMIX=0,	ADMBURNIN=2500,	UPDATEFREQ=200,	PRINTLIKES=0,	INTERMEDSAVE=0,	PRINTKLD=0,	PRINTNET=0,	PRINTLAMBDA=0,	ANCESTDIST=0,	NUMBOXES=1000,	ANCESTPINT=0.90000,	GENSBACK=2,	MIGRPRIOR=0.05000,	PRINTQHAT=0,	PRINTQSUM=0,	ALPHA=1.0000,	FREQSCORR=1,	FPRIORMEAN=0.1000,	FPRIORSD=0.1000,	ONEFST=0,	LAMBDA=1.0000,	UNIFPRIORALPHA=1,	ALPHAMAX=10.0000,	ALPHAPRIORA=1.0000,	ALPHAPRIORB=2.0000,	ALPHAPROPSD=0.0500,	STARTATPOPINFO=0,	RANDOMIZE=1,	LINKAGE=0,	METROFREQ=20,	REPORTHITRATE=0,	MARKOVPHASE=-1,	PHASED=1,	PLOIDY=2,	PHASEINFO=0	LOCPRIOR=0, 	LOCPRIORINIT=1.000000, 	LOCDATA=0, 	LOCISPOP=0, 	LOCPRIORSTEP=0.100000, 	MAXLOCPRIOR=20.000000, 	SEED=1530248712,	
+[STRAT parameters]:    NUMSIMSTATS=1000,	PHENOTYPECOL=-9,	POOLFREQ=10,	LOCUSxONLY=0,	EMERROR=0.00100,	MISSINGPHENO=-9,	
